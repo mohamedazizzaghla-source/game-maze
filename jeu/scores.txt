@@ -1,0 +1,3 @@
+Ali 200
+Mohamed 150
+Sami 100
